@@ -1,16 +1,15 @@
-# yzv202e-project
-Psychological Resource Allocation Optimization
+## Psychological Resource Allocation Optimization
 
-Overview
+## Overview
 
 This project optimizes the allocation of psychological support resources across districts in Istanbul using real-world data. The goal is to distribute limited resources efficiently based on population, social exclusion, and emotional well-being indicators.
 
-Methods
+## Methods
 
 Linear Programming (main method),
 Random Search (baseline comparison)
 
-Dataset
+## Dataset
 
 Data is obtained from the Istanbul Metropolitan Municipality (IBB) Open Data Platform:
 
