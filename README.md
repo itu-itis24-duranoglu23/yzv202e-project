@@ -1,4 +1,4 @@
-## Psychological Resource Allocation Optimization
+# Psychological Resource Allocation Optimization
 
 ## Overview
 
