@@ -38,8 +38,8 @@ VDYM İlçe Bazında Hanelerdeki Duygu Durum İstatistikleri:
 
 https://data.ibb.gov.tr/dataset/vdym-ilce-bazinda-hanelerdeki-duygu-durum-istatistikleri/resource/43768b1d-9404-4ac2-9c19-feb75b2ddcbe/view/9c119de1-cc2d-4584-900b-44c082dcbf90
 
-Team:
--Elif Naz Hocaoğlu hocaoglu23@itu.edu.tr 150230919
--Sudenur Meral meral23@itu.edu.tr 150230304
--Elif Duranoğlu duranoglu23@itu.edu.tr 150230310
+## Team members:
+- Elif Naz Hocaoğlu hocaoglu23@itu.edu.tr 150230919
+- Sudenur Meral meral23@itu.edu.tr 150230304
+- Elif Duranoğlu duranoglu23@itu.edu.tr 150230310
 
